@@ -1,10 +1,8 @@
+import sys
 
 from PyQt5 import QtWidgets
 
-import sys
-from PyQt5.QtWidgets import QApplication,QMainWindow
 from face import Ui_Dialog
-import sys
 
 
 class MyWindow(QtWidgets.QMainWindow, Ui_Dialog):
@@ -12,9 +10,9 @@ class MyWindow(QtWidgets.QMainWindow, Ui_Dialog):
         super(MyWindow, self).__init__()
         self.setupUi(self)
 
-if __name__ == "__main__":
 
+if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
-    myshow = MyWindow()
-    myshow.show()
+    show_out = MyWindow()
+    show_out.show()
     app.exec_()
