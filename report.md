@@ -1,7 +1,5 @@
 # 电话识别报告
 
-
-
 ## 主要实现
 
 通过python的```PyQt```实现图形化界面设计和绑定生成。调用```wave```读取波形。调用python的信号处理相关包```numpy，scipy.signal```对信号进行处理。调用```pyinstaller```打包程序。
