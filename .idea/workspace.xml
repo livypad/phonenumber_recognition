@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a027654-7017-4f65-b15c-2f8ce7d9a847" name="Default Changelist" comment="进行格式和命名的修补">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/telephone.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/telephone.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face.py" beforeDir="false" afterPath="$PROJECT_DIR$/face.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face.ui" beforeDir="false" afterPath="$PROJECT_DIR$/face.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.md" beforeDir="false" afterPath="$PROJECT_DIR$/report.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +34,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../c-" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -111,15 +101,23 @@
       <workItem from="1606665420064" duration="1897000" />
       <workItem from="1606667596921" duration="1846000" />
       <workItem from="1606750387566" duration="166000" />
-      <workItem from="1606750567306" duration="1339000" />
+      <workItem from="1606750567306" duration="1734000" />
+      <workItem from="1606816660225" duration="137000" />
     </task>
+    <task id="LOCAL-00001" summary="进行格式和命名的修补">
+      <created>1606751936726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606751936726</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="进行格式和命名的修补" />
     <option name="LAST_COMMIT_MESSAGE" value="进行格式和命名的修补" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
@@ -143,14 +141,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="531" y="241" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1606649958620" />
-    <state x="367" y="0" width="761" height="824" key="CommitChangelistDialog2" timestamp="1606751690413">
+    <state x="367" y="0" width="761" height="824" key="CommitChangelistDialog2" timestamp="1606751935391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" width="761" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606751690413" />
-    <state x="547" y="167" key="FileChooserDialogImpl" timestamp="1606668902662">
+    <state x="367" y="0" width="761" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606751935391" />
+    <state x="547" y="167" key="FileChooserDialogImpl" timestamp="1606816678487">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="547" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606668902662" />
+    <state x="547" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606816678487" />
     <state x="637" y="309" key="Github.ShareDialog" timestamp="1606669207737">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -191,14 +189,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606667366848" />
-    <state x="255" y="117" width="1124" height="707" key="SettingsEditor" timestamp="1606751738654">
+    <state x="255" y="117" width="1124" height="707" key="SettingsEditor" timestamp="1606799878135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="255" y="117" width="1124" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606751738654" />
+    <state x="255" y="117" width="1124" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606799878135" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606669217920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606669217920" />
+    <state x="582" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606752044505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606752044505" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606751414387">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
